@@ -1,2 +1,6 @@
 # Stepic_autotest
-home work for lesson
+home work for lessons
+first commit.
+work
+
+
